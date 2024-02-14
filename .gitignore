@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
+.idea
+.DS_store
 *.pyc
 *.pyo
 __pycache__/
